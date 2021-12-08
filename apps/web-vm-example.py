@@ -53,7 +53,7 @@ def GenerateConfig(context):
                         'boot': True,
                         'autoDelete': True,
                         'initializeParams': {
-                            'sourceImage': 'https://www.googleapis.com/compute/v1/projects/click-to-deploy-images/global/images/lamp-v20190909'
+                            'sourceImage': 'https://www.googleapis.com/compute/v1/projects/click-to-deploy-images/global/images/lamp-v20211121'
                         }
                     }],
                     'metadata': {
